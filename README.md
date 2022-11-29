@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-Programing in python
+ALX Holberton school python projects
